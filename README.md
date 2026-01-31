@@ -1,4 +1,4 @@
-# pseudonumber
+# Pseudo Number
 This project implements an Affine Cipher for text encryption and decryption, enhanced with a pseudo-random key generation mechanism inspired by memristor dynamics.
 
 Instead of using a fixed key directly, the input key is transformed through a nonlinear memristor model to generate stronger, less predictable encryption parameters. The cipher supports a wide range of ASCII symbols and ensures cryptographic validity using modular arithmetic and inverse calculations.
